@@ -1,0 +1,13 @@
+/* TEAM */
+
+      Symbionts Team,
+      https://twitter.com/Ecosynthesizer
+      Development funding, ops, and HR.
+  
+      Jose Alejandro Demarzo Montero
+      https://twitter.com/Alejos7ven
+      Devloper. PHP, JS, SQL.
+   
+/* SITE */
+      Last update:2021/06/10
+      Language: English

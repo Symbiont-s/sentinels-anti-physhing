@@ -1,0 +1,18 @@
+{
+  "name": "phishingbots",
+  "version": "1.0.0",
+  "description": "bots used to detect phishing on the steem blockchain",
+  "main": "db.js",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "steem": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Symbionts",
+  "license": "ISC"
+}
